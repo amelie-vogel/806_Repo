@@ -28,5 +28,7 @@ https://docs.google.com/presentation/d/16L2XH1ZsebH2JFuDQ0ktdknomioWdyqem-VVtb77
 
 ## Links
 https://github.com/amelie-vogel/806_Repo/blob/master/Projects/mini-project-1/your-project/BLACKJACK_.ipynb
+
 https://docs.google.com/presentation/d/16L2XH1ZsebH2JFuDQ0ktdknomioWdyqem-VVtb77-68/edit#slide=id.g89c377c407_0_87
+
 https://www.secretsdujeu.com/jeux-gratuits/casino/betsoft/european-blackjack
